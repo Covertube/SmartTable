@@ -1,0 +1,3 @@
+- Filewatcher API für synchronisierung, der aktuellen veränderten Daten des
+  Users auf dessen Desktop, mit dem Server.
+ 

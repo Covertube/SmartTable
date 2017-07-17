@@ -1,0 +1,9 @@
+Maus im rechten Bereich des Bildschirms öffnet eine Leiste mit allen 
+verwendbaren Cloud-Diensten. Per Klick auf den ausgewählten Dienst wird
+eine Eingabeauforderung für "Benutzername" und "Passwort" ausgeführt um
+sich mit dem jeweiligen Cloud-Dienst automatisch einzuloggen und 
+ohne Zugriff auf den Browser die einzelnden Dateien begutachtet werden
+können.
+
+Feature: per "Drag and Drop" können Dateien in den "Desktop" gezogen werden
+
